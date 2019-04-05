@@ -13,12 +13,7 @@
 - 错误记录
     - 1.[jdk8中SimpleDateFormat对错误日期的校验通过问题](docs/error/SimpleDateFormat.md)
     
-* [待办](#待办)
-
-
-
-    
-    
+* [待办](#待办)  
 ## 待办
 - [ ] java集合
 - [ ] concurrent包
