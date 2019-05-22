@@ -13,19 +13,3 @@
     - 1.[jdk8中SimpleDateFormat对错误日期的校验通过问题](docs/error/01.SimpleDateFormat.md)
     
 * [待办](#待办)  
-## 待办
-- [ ] java集合
-- [ ] concurrent包
-- [ ] jvm原理
-- [ ] 网络协议
-- [ ] dubbo
-- [ ] netty
-- [ ] mysql
-- [ ] 算法
-- [ ] Zookeeper
-- [ ] Nginx
-- [ ] Reids
-- [ ] Dubbo
-- [ ] Spring
-- [ ] SpringCloud
-- [ ] Docker
