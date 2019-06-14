@@ -28,9 +28,9 @@
     - [00.算法实现代码](docs/algorithm/00.算法代码代码.md)
     - [x] [01.Hash算法](docs/algorithm/01.Hash算法.md)  
 - 其他
-    - [x](docs/other/01.分布式主键生成策略.md)
-    - [x](docs/other/02.CAP定理、BASE、幂等操作.md)
-    - [x](docs/other/03.Java性能调优.md)
+    - [x] [01.分布式主键生成策略](docs/other/01.分布式主键生成策略.md)
+    - [x] [02.CAP定理、BASE、幂等操作](docs/other/02.CAP定理、BASE、幂等操作.md)
+    - [x] [03.Java性能调优](docs/other/03.Java性能调优.md)
 - spring
 - redis
 - netty
