@@ -1,6 +1,17 @@
 <h1 align="center">Diary <small><small><small>学习日记</small></small></small></h1>
 
-###
+### 目标
+- 长期
+    > 开始记录最近处理的异常，位于/docs/error下
+    
+    > 记录看到的好文章，位于/docs/other下
+    
+- 19.7月底
+    > 看完JVM虚拟机并记录笔记;
+    
+    > 调剂时间写java笔记和mysql笔记;
+
+### 代办
 - 工具类开发
     - [x] [KGenerator 反向生成工具](https://github.com/KermitSun/KGenerator)
     - [ ] [KExcel excel解析工具](https://github.com/KermitSun/KExcel)
