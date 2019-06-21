@@ -35,6 +35,7 @@
     - [x] [03.mysql日志](docs/mysql/03.mysql日志.md)
     - [x] [04.索引基础](docs/mysql/04.索引基础.md)
     - [x] [05.mysql锁](docs/mysql/05.mysql锁.md)
+    - [ ] [99.mysql笔记](docs/mysql/99.mysql笔记.md)
 - 算法
     - [00.算法实现代码](docs/algorithm/00.算法代码代码.md)
     - [x] [01.Hash算法](docs/algorithm/01.Hash算法.md)  
