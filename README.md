@@ -14,7 +14,7 @@
 ### 代办
 - 工具类开发
     - [x] [KGenerator 反向生成工具](https://github.com/KermitSun/KGenerator)
-    - [ ] [KExcel excel解析工具](https://github.com/KermitSun/KExcel)
+    - [x] [KExcel excel解析工具](https://github.com/KermitSun/KExcel)
 - 错误记录
     - [x] [01.jdk8中SimpleDateFormat对错误日期的校验通过问题](docs/error/01.SimpleDateFormat.md)
     - [x] [02.打jar包后Mybatis不识别Alias别名](docs/error/02.打jar包后Mybatis不识别Alias别名.md)
